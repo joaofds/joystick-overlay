@@ -3,4 +3,4 @@
 ---
 
 Simple keyboard overlay created with C# Windows Form Application.  
-<a href="Windows/KeyboardOverlay.exe" download>Download</a>
+[Download](Windows/KeyboardOverlay.exe "download")
